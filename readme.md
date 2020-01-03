@@ -4,3 +4,6 @@
 
 # Services
 - iTalki (https://www.italki.com/teachers/italian)
+
+# Books
+- Collins Italian Visual Dictionary
