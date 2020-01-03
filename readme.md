@@ -17,3 +17,10 @@
 - ClioMakeUp (https://www.youtube.com/user/ClioMakeUp)
 - FavijTV (https://www.youtube.com/user/FavijTV)
 
+# Videos
+- Podcast Italiano Youtube channel (https://www.youtube.com/channel/UCegEedDeryCYSVT7eBCm-RQ/videos)
+
+# Podcasts
+- Coffee Break Italian (https://radiolingua.com/coffeebreakitalian/)
+- Podcast Italiano (https://podcastitaliano.com/)
+
